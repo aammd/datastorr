@@ -4,3 +4,4 @@
 tests/testthat/mtcars.rds
 inst/doc
 inst/web
+*.Rproj
